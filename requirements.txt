@@ -1,5 +1,5 @@
 python-nmap
-lxml==4.2.0
+lxml==4.6.2
 requests>=2.20.0
 IPy==0.83
 beautifulsoup4==4.6.3
